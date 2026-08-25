@@ -3,7 +3,7 @@
 Base App mini app for **kitasit** (Next.js + wagmi + Farcaster Mini App SDK).
 
 ## Config (hardcoded, no Vercel env)
-
+hkj
 | Item | Value |
 |------|--------|
 | Base App ID | `6a15662a5ef088574244919e` → `lib/appConfig.ts` + `<meta name="base:app_id">` |
