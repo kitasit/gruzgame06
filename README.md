@@ -1,4 +1,4 @@
-# Gruz Game 06 — Anime Tyanka Tap
+g# Gruz Game 06 — Anime Tyanka Tap
 
 Base App mini app for **kitasit** (Next.js + wagmi + Farcaster Mini App SDK).
 
