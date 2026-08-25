@@ -1,7 +1,7 @@
 # Gruz Game 06 — Anime Tyanka Tap
 
 Base App mini app for **kitasit** (Next.js + wagmi + Farcaster Mini App SDK).
-
+fad
 ## Config (hardcoded, no Vercel env)
 
 | Item | Value |
